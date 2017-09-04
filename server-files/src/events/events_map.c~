@@ -1,0 +1,18 @@
+//
+// Created by desein_c on 27/06/17.
+//
+
+#include	"socket.h"
+#include	"response.h"
+
+int		event_on_tile_update(t_socket *graphic,
+					void *arg1, void *arg2)
+{
+  int		*x;
+  int 		*y;
+
+  x = (int *) arg1;
+  y = (int *) arg2;
+  response_graphic_bct(graphic, *x, *y);
+  return (0);
+}

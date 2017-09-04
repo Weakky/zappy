@@ -1,0 +1,26 @@
+//
+// Created by desein_c on 28/06/17.
+//
+
+const int	**commands_ai_get_elms_needed()
+{
+  static int	elms_needed[7][8] =
+   {{1, 0, 1, 0, 0, 0, 0, 0},
+    {2, 0, 1, 1, 1, 0, 0, 0},
+    {2, 0, 2, 0, 1, 0, 2, 0},
+    {4, 0, 1, 1, 2, 0, 1, 0},
+    {4, 0, 1, 2, 1, 3, 0, 0},
+    {6, 0, 1, 2, 3, 0, 1, 0},
+    {6, 0, 2, 2, 2, 2, 2, 1}};
+
+  return ((const int **) elms_needed);
+}
+
+const char	**commands_ai_get_elms_names()
+{
+  static char	*elm_names[] =
+   {"player", "food", "linemate", "deraumere",
+    "sibur", "mendiane", "phiras", "thystame"};
+
+  return ((const char **) elm_names);
+}

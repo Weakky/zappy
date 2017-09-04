@@ -1,0 +1,4 @@
+/home/desver_f/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/171.3780.121/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/desver_f/rendu/TEK2/PSU_2016_zappy
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PSU_2016_zappy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_2016_zappy">
+				<Option output="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/PSU_2016_zappy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include"/>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/client"/>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/circular_buffer"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_2016_zappy"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_2016_zappy/fast">
+				<Option output="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/PSU_2016_zappy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include"/>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/client"/>
+					<Add directory="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/circular_buffer"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_2016_zappy/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/desver_f/rendu/TEK2/PSU_2016_zappy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/argument.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/broadcast.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/circular_buffer/circular_buffer.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/circular_buffer/circular_buffer_functions.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/client/client.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/client/client_functions.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/client/player.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/error.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/ia.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/list.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/include/utils.h">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_add.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_create.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_delete.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_execute.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_free.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_pop.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/lib/list/list_sort.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_message_group.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_message_personal.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_message_survive.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_send_group.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_send_personal.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/broadcast_send_survive.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/broadcast/utils_message_group.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/circular_buffer/circular_buffer.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/circular_buffer/circular_buffer_functions.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/client.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/client_connect.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/client_read.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/client_write.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/player.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/player_global_inventory.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/player_group.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/player_whitelist.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/client/requisites.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/check_ok.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/connect_nbr.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/incantation.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/inventory.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/look.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/parse_inventory.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/parse_look.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/take_set_object.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/commands/welcome.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/error.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/get_arguments.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/get_arguments_port.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_action.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_move.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_prepare_tile_to_evolve.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes_alone.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes_find_objects.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes_find_resources.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes_group.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_recipes_group_need.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_send_command.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/ia/ia_survive.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/main.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/utils/free_tab.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/utils/my_split.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/utils/my_strchr.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/ai-files/src/utils/my_strtok.c">
+			<Option target="PSU_2016_zappy"/>
+		</Unit>
+		<Unit filename="/home/desver_f/rendu/TEK2/PSU_2016_zappy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
